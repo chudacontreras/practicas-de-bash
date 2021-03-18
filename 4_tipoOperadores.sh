@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # lec_3.sh file
 # ! /bin/bash  // it is used in the course
-# Author: name - @name
+# Author: Jesus Contreras (chuda) - @chudacontreras
 
 #operators
 A=10
